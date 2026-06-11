@@ -38,7 +38,6 @@ The dashboard provides a clear view of sales performance, customer behavior, and
 
 ## 📂 Project Files
 - Power BI Dashboard (.pbix)
-- Dataset (.csv)
 - SQL Analysis Queries (.sql)
 - Dashboard Screenshot (.png)
 
